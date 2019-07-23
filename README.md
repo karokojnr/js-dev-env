@@ -10,4 +10,15 @@
     ]
   }
   ```
+  ## How modern is your Node?:rotating_light:
+  run the following in your terminal:
+```javascript
+$ node
 
+// Modern JS test
+> (async (a = 1, ...b) => ({ ...b, a, [a]: `${a}` }))()
+
+// New Promise APIs
+> util.promisify
+> require('fs').promises
+```
