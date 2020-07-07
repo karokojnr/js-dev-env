@@ -19,7 +19,7 @@
   "author": "Cory House",
   "license": "MIT",
   "dependencies": {
-    "npm": "^6.0.1",
+    "npm": "^6.14.6",
     "whatwg-fetch": "1.0.0"
   },
   "jest": {
